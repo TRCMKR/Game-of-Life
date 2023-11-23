@@ -1,4 +1,8 @@
 # Life-Game
-My vision of popular Life Game
+## Features
 
-## It's crossplatform
+- Cross-platform
+- Has exit command
+- Menu
+- Beautiful themes
+- Optimized performance
