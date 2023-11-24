@@ -1,4 +1,4 @@
-# Life-Game
+# Game of Life
 ## Features
 
 - Cross-platform
