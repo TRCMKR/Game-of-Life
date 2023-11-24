@@ -6,6 +6,7 @@
 - Menu
 - Beautiful themes
 - Optimized performance
+- Console-based
 
 
 
